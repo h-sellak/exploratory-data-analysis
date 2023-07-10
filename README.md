@@ -30,7 +30,7 @@ To get started with the Exploratory Data Analysis repository, follow these steps
 
 1. Clone the repository:
 
-    `git clone `
+    `git clone https://github.com/h-sellak/exploratory-data-analysis.git`
 
 2. Navigate to the `exploratory-data-analysis` directory:
 
